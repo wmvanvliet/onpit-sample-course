@@ -1,0 +1,7 @@
+title: An example course for OnPIT
+description: An example course for OnPIT
+labs:
+- title: Sample Lab
+  description: Just some lab to test OnPIT
+  directory: /sample-lab
+  number_of_tasks: 10

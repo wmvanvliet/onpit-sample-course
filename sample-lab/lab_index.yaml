@@ -1,0 +1,40 @@
+title: Sample Lab
+description: Just some lab to test OnPIT
+details:
+  intro:
+    text: intro.rst
+  steps:
+  - name: step1
+    title: Title for step 1
+    text: step1.rst
+  - name: step2
+    title: Title for step 2
+    text: step2.rst
+  - name: step3
+    title: Title for step 3
+    text: step3.rst
+  - name: step4
+    title: Title for step 4
+    text: step4.rst
+  - name: step5
+    title: Title for step 5
+    text: step5.rst
+  - name: step6
+    title: Title for step 6
+    text: step6.rst
+  - name: step7
+    title: Title for step 7
+    text: step7.rst
+  - name: step8
+    title: Title for step 8
+    text: step8.rst
+  - name: step9
+    title: Title for step 9
+    text: step9.rst
+  - name: step10
+    title: Title for step 10
+    text: step10.rst
+  finish:
+    text: finish.rst
+grader: grader.py
+initializationScript: setup.py
